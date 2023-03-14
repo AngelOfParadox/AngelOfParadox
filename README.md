@@ -1,6 +1,8 @@
 # 💫 About Me:
 Software developer with focus on backend using Python and JavaScript, open to learning new technologies. ✅🦾🤠
 
+![1678767603523](https://user-images.githubusercontent.com/106837228/224992888-9f512a25-2803-47f8-89ad-d795c4e932ad.png)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Miguelangelrodriguezcalvillo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Angelofparadox) 

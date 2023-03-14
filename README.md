@@ -13,7 +13,7 @@ Software developer with focus on backend using Python and JavaScript, open to le
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelofparadox&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Angelofparadox)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Angelofparadox&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Angelofparadox&icon=7&color=12)](https://visitcount.itsvg.in)

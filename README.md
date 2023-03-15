@@ -1,6 +1,6 @@
 # 💫 About Me:
 Software developer with focus on backend using Python and JavaScript, open to learning new technologies. 
-I love working in a team, currently looking for an opportunity to develop professionally. ✅🦾🤠
+I love working in a team, currently looking for an opportunity to develop professionally. 🤠
 
 ![1678767603523](https://user-images.githubusercontent.com/106837228/224992888-9f512a25-2803-47f8-89ad-d795c4e932ad.png)
 

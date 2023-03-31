@@ -1,6 +1,6 @@
 # 💫 About Me:
-Software developer with focus on backend using Python and JavaScript, open to learning new technologies. 
-I love working in a team, currently looking for an opportunity to develop professionally. 🤠
+Developer and computer engineer (currently enrolled in computer systems engineering). Focus on the backend using python and javascript, and on machine learning and artificial intelligence, using popular libraries like Pandas, SpaCy,
+Numpy, Scikit-learn, Keras, Tensorflow. Also try to create a good environment in my projects with the frontend. Currently looking for an opportunity to develop professionally. 🤠
 
 
 

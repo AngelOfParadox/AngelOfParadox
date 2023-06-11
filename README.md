@@ -1,6 +1,6 @@
 # 💫 About Me:
-Developer and engineer (currently enrolled in computer systems engineering). Focus on the backend using Python and Javascript, and on Machine Learning and Artificial Intelligence, using popular libraries like Pandas, SpaCy,
-Numpy, Scikit-learn, Keras, Tensorflow. Also try to create a good environment in my projects with the frontend. I like classic literature and my kitties. 
+Developer and engineer (currently enrolled in computer systems engineering). Focus on the backend using Python and Javascript, and on Machine Learning and Artificial Intelligence, using popular libraries like Pandas, SpaCy, LangChain
+Numpy, Scikit-learn, Keras, Tensorflow and More! Also try to create a good environment in my projects with the frontend. I like classic literature and my kitties. 
 Currently looking for an opportunity to develop professionally. 🐱
 
 

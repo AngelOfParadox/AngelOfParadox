@@ -17,8 +17,7 @@ Currently looking for an opportunity to develop professionally. 🐱
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Angelofparadox&theme=dark&hide_border=false)<br/>
 
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Angelofparadox&theme=github_dark)](https://github.com/VishwaGauravIn/github-twitter-card-embed) <br/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Angelofparadox&icon=7&color=12)](https://visitcount.itsvg.in)
